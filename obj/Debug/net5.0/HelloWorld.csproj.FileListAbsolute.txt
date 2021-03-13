@@ -1,0 +1,16 @@
+/home/cedric/PROG7311/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/cedric/PROG7311/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/cedric/PROG7311/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/cedric/PROG7311/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/cedric/PROG7311/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/cedric/PROG7311/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/cedric/PROG7311/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/cedric/PROG7311/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
